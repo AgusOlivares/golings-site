@@ -109,5 +109,5 @@ func TestWeekDay(t *testing.T) {
 ```
 
 - [Source code](https://github.com/mauricioabreu/golings/blob/main/exercises/switch/switch3/main_test.go)
-- [Playground](hhttps://go.dev/play/p/U6XXrvIAVj4)
+- [Playground](https://go.dev/play/p/U6XXrvIAVj4)
 - [Solved](https://go.dev/play/p/EZI3ki7uBaP)
