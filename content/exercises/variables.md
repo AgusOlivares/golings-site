@@ -154,5 +154,5 @@ func main() {
 ```
 
 - [Source code](https://github.com/mauricioabreu/golings/blob/main/exercises/variables/variables6/main.go)
-- [Playground](https://go.dev/play/p/WRRzCi4TUHX)
+- [Playground](https://go.dev/play/p/tPeKjReJqnL)
 - [Solved](https://go.dev/play/p/BtjU-UcdgxL)
